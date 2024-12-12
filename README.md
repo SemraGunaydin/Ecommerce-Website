@@ -27,6 +27,11 @@ Ensure your website looks flawless and performs seamlessly on all screen sizes�
 - CSS3 🎨 — For responsive styling and visual design.
 -JavaScript 💡 — For adding interactivity and dynamic behavior.
 
+# 📸 Project Preview
+![Uploading e-Commerce Website.gif…]()
+
+
+
 # 💻 Why Build This Project?
 This project is perfect for absolute beginners looking to gain hands-on experience in web development. By creating this eCommerce website, you’ll not only master the fundamentals of HTML, CSS, and JavaScript, but also develop a real-world project that you can showcase in your portfolio.
 
