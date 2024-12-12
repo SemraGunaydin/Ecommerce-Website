@@ -28,8 +28,8 @@ Ensure your website looks flawless and performs seamlessly on all screen sizes�
 -JavaScript 💡 — For adding interactivity and dynamic behavior.
 
 # 📸 Project Preview
-![Uploading e-Commerce Website.gif…]()
 
+![e-Commerce Website](https://github.com/user-attachments/assets/8153a935-9f39-45e6-9a5e-03591518f268)
 
 
 # 💻 Why Build This Project?
